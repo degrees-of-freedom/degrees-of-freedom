@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://stackexchange.com/users/14612253"><img src="https://stackexchange.com/users/flair/14612253.png?theme=hotdog" width="208" height="58" alt="profile for divertingpie on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for divertingpie on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/14612253"><img src="https://stackexchange.com/users/flair/14612253.png" width="208" height="58" alt="profile for divertingpie on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for divertingpie on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
