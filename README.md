@@ -1,4 +1,4 @@
-<a href="https://stackexchange.com/users/14612253"><img src="https://stackexchange.com/users/flair/14612253.png?cache-bust=1" width="208" height="58" alt="profile for degrees-of-freedom on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for degrees-of-freedom on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/14612253"><img src="https://stackexchange.com/users/flair/14612253.png?cache-bust=0" width="208" height="58" alt="profile for degrees-of-freedom on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for degrees-of-freedom on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 ```text
